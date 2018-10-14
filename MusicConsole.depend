@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1513980962 source:c:\users\amel\desktop\projet final\musicconsole\main.cpp
+	"inc/Menu.h"
+
+1513980940 c:\users\amel\desktop\projet final\musicconsole\inc\menu.h
+	"Piano.h"
+
+1513980341 c:\users\amel\desktop\projet final\musicconsole\inc\piano.h
+	"userManager.h"
+	"MusInstrument.h"
+
+1514099891 c:\users\amel\desktop\projet final\musicconsole\inc\usermanager.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	"FolderException.h"
+
+1514099942 c:\users\amel\desktop\projet final\musicconsole\inc\musinstrument.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<iterator>
+	<algorithm>
+	"FileException.h"
+
+1513980357 source:c:\users\amel\desktop\projet final\musicconsole\src\fileexception.cpp
+	"../inc/FileException.h"
+
+1513980842 c:\users\amel\desktop\projet final\musicconsole\inc\fileexception.h
+	"PianoAppException.h"
+
+1514100337 c:\users\amel\desktop\projet final\musicconsole\inc\pianoappexception.h
+	<exception>
+	<string>
+
+1513980370 source:c:\users\amel\desktop\projet final\musicconsole\src\folderexception.cpp
+	"../inc/FolderException.h"
+
+1513980837 c:\users\amel\desktop\projet final\musicconsole\inc\folderexception.h
+	"PianoAppException.h"
+
+1514100040 source:c:\users\amel\desktop\projet final\musicconsole\src\menu.cpp
+	"../inc/Menu.h"
+
+1514161410 source:c:\users\amel\desktop\projet final\musicconsole\src\musinstrument.cpp
+	<string>
+	<conio.h>
+	"../inc/MusInstrument.h"
+
+1513981058 source:c:\users\amel\desktop\projet final\musicconsole\src\piano.cpp
+	"../inc/Piano.h"
+
+1513972567 source:c:\users\amel\desktop\projet final\musicconsole\src\pianoappexception.cpp
+	"../inc/PianoAppException.h"
+
+1514100390 source:c:\users\amel\desktop\projet final\musicconsole\src\usermanager.cpp
+	"../inc/UserManager.h"
+
+1513976839 source:c:\users\amel\desktop\projet final\musicconsole\inc\pianoappexception.h
+	<exception>
+	<string>
+
+1513980357 source:c:\users\amel\desktop\amel_negra\src\fileexception.cpp
+	"../inc/FileException.h"
+
+1513980842 c:\users\amel\desktop\amel_negra\inc\fileexception.h
+	"PianoAppException.h"
+
+1514100337 c:\users\amel\desktop\amel_negra\inc\pianoappexception.h
+	<exception>
+	<string>
+
+1513980370 source:c:\users\amel\desktop\amel_negra\src\folderexception.cpp
+	"../inc/FolderException.h"
+
+1513980837 c:\users\amel\desktop\amel_negra\inc\folderexception.h
+	"PianoAppException.h"
+
+1514370797 source:c:\users\amel\desktop\amel_negra\src\main.cpp
+	"../inc/Menu.h"
+
+1514393994 c:\users\amel\desktop\amel_negra\inc\menu.h
+	"Piano.h"
+
+1514390310 c:\users\amel\desktop\amel_negra\inc\piano.h
+	"userManager.h"
+	"MusInstrument.h"
+
+1514393633 c:\users\amel\desktop\amel_negra\inc\usermanager.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	"FolderException.h"
+
+1514393066 c:\users\amel\desktop\amel_negra\inc\musinstrument.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<iterator>
+	<algorithm>
+	"FileException.h"
+
+1514394740 source:c:\users\amel\desktop\amel_negra\src\menu.cpp
+	"../inc/Menu.h"
+
+1514393837 source:c:\users\amel\desktop\amel_negra\src\piano.cpp
+	"../inc/Piano.h"
+
+1513972567 source:c:\users\amel\desktop\amel_negra\src\pianoappexception.cpp
+	"../inc/PianoAppException.h"
+
+1514394071 source:c:\users\amel\desktop\amel_negra\src\usermanager.cpp
+	"../inc/UserManager.h"
+
+1514394824 source:c:\users\amel\desktop\amel_negra\src\musinstrument.cpp
+	<string>
+	<conio.h>
+	"../inc/MusInstrument.h"
+
